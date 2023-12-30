@@ -43,7 +43,6 @@ This repository contains implementations of various data structures and algorith
 Certainly! Here's a concluding section for your README:
 
 ---
-
 ## Conclusion
 
 Thank you for exploring this repository on JavaScript Data Structures and Algorithms! Each topic is accompanied by practical implementations to help you grasp these fundamental concepts in a real-world context.
@@ -55,8 +54,9 @@ Thank you for exploring this repository on JavaScript Data Structures and Algori
 - If you found this tutorial helpful, consider giving this repository a star. Your support motivates me to create more educational content.
 
 **Buy Me Coffee:**
-- If you'd like to show additional support, you can buy me a coffee! Scan the QR code below to make a payment.
+- If you'd like to show additional support, click the button below to buy me a coffee:
 
-![QR Code](link-to-your-qr-code-image)
+[![Buy Me Coffee](https://img.shields.io/badge/Buy%20Me%20Coffee-Donate-yellow)](https://raw.githubusercontent.com/techboydk/JavaScript-DSA/main/QR.jpeg)
 
 Your contributions, feedback, and stars are greatly appreciated. Happy coding!
+

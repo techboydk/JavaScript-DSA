@@ -1,9 +1,0 @@
-Course Topics for the DSA.
-1. What is algorithms
-2. Measuring the performance
-3. Time and Space complexity
-4. Big O notation
-5. Math algorithms
-6. Sort
-7. Search
-8. Misc, algorithms and problem solving

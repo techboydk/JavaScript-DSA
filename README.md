@@ -13,7 +13,7 @@ This repository contains implementations of various data structures and algorith
 7. Search
 8. Misc, algorithms and problem solving
 
-# Let's go through each topic briefly:
+## Let's go through each topic briefly:
 
 1. **What is Algorithms:**
    - An algorithm is a step-by-step set of instructions or procedures designed to perform a specific task or solve a particular problem. In computer science, algorithms serve as the foundation for writing efficient and effective computer programs.
@@ -40,9 +40,8 @@ This repository contains implementations of various data structures and algorith
 8. **Miscellaneous Algorithms and Problem Solving:**
    - This category includes a wide range of algorithms that don't fit neatly into the previous categories. It might cover topics like dynamic programming, graph algorithms, and other problem-solving techniques.
 
-Certainly! Here's a concluding section for your README:
 
----
+
 ## Conclusion
 
 Thank you for exploring this repository on JavaScript Data Structures and Algorithms! Each topic is accompanied by practical implementations to help you grasp these fundamental concepts in a real-world context.

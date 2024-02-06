@@ -1,0 +1,23 @@
+Versioning
+
+4.18.0
+
+1st part - 0
+2nd part - 18
+3rd part - 4
+
+1st part - minor fixes (optional)
+4.18.0 -> 4.18.1
+
+2nd part - recommended bug fixes (security fixes)
+4.18.1 -> 4.19.0
+
+3rd part - Major release fixes - breaking changes
+4.19.0 -> 5.0.0
+
+carret symbol ( ^ ) means lock the first digit
+i.e. if ^4.18.0 and we do update then it will changes recommended changes and minor changes but not major( 4 -> 5).
+
+( ~ ) means it changes only minor changes
+i.e. ~4.18.0 -> ~4.18.1 is allowed but ~4.18.0 -> ~4.19.0 is not allowed
+
